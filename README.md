@@ -1,2 +1,2 @@
 # MySite
-My TextUtils Website Using Python
+My TextUtils Website Using Django
